@@ -18,5 +18,5 @@ Used the first T = 1000 log-returns to estimate the VaR of each index at the 95%
 ### 4. Backtesting
 Used a rolling window of T = 1000 days, computed and stored the next-step-ahead VaR at the 95% risk level for the next 1000 days
 
-##Realized Returns and VAR Estimates
+## Realized Returns and VAR Estimates
 ![](/img/VAR_plot.png)
