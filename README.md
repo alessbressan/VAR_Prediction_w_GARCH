@@ -1,5 +1,5 @@
 # Stats Methods for Financial Data (HEC Montreal)
-##Description
+## Description
 The objective is to estimate and backtest the valut-at-risk (VaR) of portfolio of two indices using the GARCH(1,1)-Normal model.
 
 The GARCH model is used to capture the heteroscedasticity of financial data: the dynamics of volatility. It
